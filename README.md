@@ -9,10 +9,10 @@ Este link aqui ensina como instalar: https://developers.google.com/optimization/
 
 ## Como funciona
 
-O arquivo 'edges.txt' possui somente uma linha, que contém todas as arestas do grafo para o qual
+O arquivo *edges.txt* possui somente uma linha, que contém todas as arestas do grafo para o qual
 você quer determinar o número de dominação romana.
 
-Para exeutar o arquivo, digite no terminal
+Para executar o programa, digite no terminal o comando (aqui, extou supondo que você possui python3 ou superior instalado):
 
 ```
 python3 PLI_RomanDomination.py
