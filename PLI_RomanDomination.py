@@ -1,4 +1,4 @@
-# Implementation the ILP model for Roman Domination from article:
+# Implementation of the ILP model for Roman Domination extracted from article:
 # ReVelle, Charles S., and Kenneth E. Rosing. 
 # "Defendens Imperium Romanum: A Classical Problem in Military Strategy."
 # The American Mathematical Monthly, vol. 107, no. 7, 2000, pp. 585-94. 
